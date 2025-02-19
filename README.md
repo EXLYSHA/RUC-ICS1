@@ -1,7 +1,7 @@
 # RUC-ICS1
-这是2023届中国人民大学ICS1课程的所有lab的开源代码，包括以下lab：datalab（包括）、bomblab（不包括）、baby-attack-homework（不包括）、cachelab（包括）和linklab（包括）
+这是2023届中国人民大学ICS1课程的所有lab的开源代码，包括以下lab：datalab（包括）、bomblab（不包括）、baby-attack-homework（部分不包括）、cachelab（包括）和linklab（包括）
 
-其中两个无法开源的项目都是因为lab不涉及代码编写的部分，如bomblab需要填写特定的代码，attack-homework则需要使用运行时栈攻击。这两个lab的做法我都写在我的实验报告中了
+其中两个无法开源的项目都是因为包括lab不涉及代码编写的部分，如bomblab需要填写特定的代码，attack-homework则需要使用运行时栈攻击。这两个lab的做法我都写在我的实验报告中了
 
 我的ICS1课程是中国人民大学 信息学院 柴云鹏教授的计算机系统基础课程，如果你在上这门课程的时候，不会做lab也可以来参考一下我的代码哦！
 
@@ -14,7 +14,7 @@
 2.实验报告是pdf格式的，如果需要md格式的实验报告可以联系我的邮箱，但是**一定一定不要抄袭！！！**
 
 # RUC-ICS1
-This is the open-source code for all the labs in the ICS1 course at Renmin University of China (RUC) for the 2023 cohort. It includes the following labs: datalab (included), bomblab (not included), baby-attack-homework (not included), cachelab (included), and linklab (included).
+This is the open-source code for all the labs in the ICS1 course at Renmin University of China (RUC) for the 2023 cohort. It includes the following labs: datalab (included), bomblab (not included), baby-attack-homework (partly included), cachelab (included), and linklab (included).
 
 The two projects that cannot be open-sourced are due to the fact that the labs do not involve coding. For example, bomblab requires filling in specific code, and attack-homework involves using runtime stack attacks. The approaches for these two labs are written in my lab report.
 
