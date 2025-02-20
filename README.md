@@ -13,6 +13,8 @@
 
 2.实验报告是pdf格式的，如果需要md格式的实验报告可以联系我的邮箱，但是**一定一定不要抄袭！！！**
 
+#### 鉴于每年的ICS课程情况，本开源项目仅在每一年的春季学期开放代码查看与下载权限，在秋季学期将不再开放文件查阅权限。
+
 # RUC-ICS1
 This is the open-source code for all the labs in the ICS1 course at Renmin University of China (RUC) for the 2023 cohort. It includes the following labs: datalab (included), bomblab (not included), baby-attack-homework (partly included), cachelab (included), and linklab (included).
 
@@ -27,3 +29,5 @@ If the code helps you, please leave a star (please, I’m begging).
 1.This course has very high requirements for academic rigor. **Do NOT copy my code or lab report!!!** Many students from the 2023 cohort failed the course or received a grade around 60 due to plagiarism detection after the final exam. My code is only for reference, mainly to help students open their minds. If copying my code or lab report leads to failure, I am not responsible.
 
 2.The lab report is in PDF format. If you need the report in markdown format, you can contact me via email, but **do NOT copy!!!**
+
+#### Given the annual ICS course schedule, this open-source project will only allow code viewing and downloading permissions during the spring semester of each year. File access will not be available during the fall semester.
